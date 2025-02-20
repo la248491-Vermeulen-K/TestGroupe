@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSRMcHuCP6CP4c5ysBrgZCcZvWuCa7cALGmlaT4wYYow9fawdXmFQG+OnGI+9d0XkGpgB1eazx9jIKw3W8sDQA==",
+  "success": false,
+  "projectFilePath": "/home/ue108/projects/TestGroupe/TestGroupe/TestGroupe.csproj",
+  "expectedPackageFiles": [
+    "/home/ue108/.nuget/packages/microsoft.netcore.app.ref/8.0.8/microsoft.netcore.app.ref.8.0.8.nupkg.sha512",
+    "/home/ue108/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.ubuntu.22.04-x64. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Microsoft.NETCore.App.Host.ubuntu.22.04-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
