@@ -6,4 +6,8 @@ foreach(int i in int)
 {
     
 }
+while(chaine == null)
+{
+    
+}
 
